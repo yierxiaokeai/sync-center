@@ -1,188 +1,68 @@
 [
   {
-    "fork": "Marukon/pdfcraft",
+    "fork": "yierxiaokeai/pdfcraft",
     "upstream": "PDFCraftTool/pdfcraft",
     "branch": "main",
     "notify": true
   },
   {
-    "fork": "Marukon/InstallerX-Revived",
+    "fork": "yierxiaokeai/InstallerX-Revived",
     "upstream": "wxxsfxyzm/InstallerX-Revived",
     "branch": "main",
     "notify": true
   },
   {
-    "fork": "Marukon/next-ai-draw-io",
+    "fork": "yierxiaokeai/next-ai-draw-io",
     "upstream": "DayuanJiang/next-ai-draw-io",
     "branch": "main",
     "notify": true
   },
   {
-    "fork": "Marukon/excalidraw",
+    "fork": "yierxiaokeai/excalidraw",
     "upstream": "excalidraw/excalidraw",
     "branch": "master",
     "notify": true
   },
   {
-    "fork": "Marukon/drawio",
+    "fork": "yierxiaokeai/drawio",
     "upstream": "jgraph/drawio",
     "branch": "dev",
     "notify": true
   },
   {
-    "fork": "Marukon/jsoncrack.com",
-    "upstream": "AykutSarac/jsoncrack.com",
-    "branch": "main",
-    "notify": true
-  },
-  {
-    "fork": "Marukon/SRK-Toolbox",
-    "upstream": "Raka-loah/SRK-Toolbox",
-    "branch": "master",
-    "notify": true
-  },
-  {
-    "fork": "Marukon/jsoneditor",
-    "upstream": "josdejong/jsoneditor",
-    "branch": "develop",
-    "notify": true
-  },
-  {
-    "fork": "Marukon/Action-Build",
+    "fork": "yierxiaokeai/Action-Build",
     "upstream": "Numbersf/Action-Build",
     "branch": "ReSukiSU",
     "notify": true
   },
   {
-    "fork": "Marukon/Action-Build",
+    "fork": "yierxiaokeai/Action-Build",
     "upstream": "Numbersf/Action-Build",
     "branch": "SukiSU-Ultra",
     "notify": true
   },
   {
-    "fork": "Marukon/ace-builds",
-    "upstream": "ajaxorg/ace-builds",
-    "branch": "master",
-    "notify": true
-  },
-  {
-    "fork": "Marukon/miaozitie",
+    "fork": "yierxiaokeai/miaozitie",
     "upstream": "caicaicai/miaozitie",
     "branch": "main",
     "notify": true
   },
   {
-    "fork": "Marukon/pic-smaller",
-    "upstream": "joye61/pic-smaller",
-    "branch": "master",
-    "notify": true
-  },
-  {
-    "fork": "Marukon/fancy-translator",
+    "fork": "yierxiaokeai/fancy-translator",
     "upstream": "daidr/fancy-translator",
     "branch": "main",
     "notify": true
   },
   {
-    "fork": "Marukon/jq-web",
-    "upstream": "fiatjaf/jq-web",
-    "branch": "master",
-    "notify": true
-  },
-  {
-    "fork": "Marukon/win11React",
-    "upstream": "blueedgetechno/win11React",
-    "branch": "master",
-    "notify": true
-  },
-  {
-    "fork": "Marukon/QR-Code-Generator",
-    "upstream": "StudyJam/QR-Code-Generator",
-    "branch": "main",
-    "notify": true
-  },
-  {
-    "fork": "Marukon/gift-book",
-    "upstream": "jingguanzhang/gift-book",
-    "branch": "main",
-    "notify": true
-  },
-  {
-    "fork": "Marukon/PaperStudio",
-    "upstream": "jingguanzhang/PaperStudio",
-    "branch": "main",
-    "notify": true
-  },
-  {
-    "fork": "Marukon/gushi_namer",
-    "upstream": "holynova/gushi_namer",
-    "branch": "master",
-    "notify": true
-  },
-  {
-    "fork": "Marukon/it-tools",
-    "upstream": "CorentinTh/it-tools",
-    "branch": "main",
-    "notify": true
-  },
-  {
-    "fork": "Marukon/XiangYue",
-    "upstream": "fzxx/XiangYue",
-    "branch": "main",
-    "notify": true
-  },
-  {
-    "fork": "Marukon/MouseInc.Settings",
-    "upstream": "shuax/MouseInc.Settings",
-    "branch": "main",
-    "notify": true
-  },
-  {
-    "fork": "Marukon/i-tools",
-    "upstream": "iLay1678/i-tools",
-    "branch": "main",
-    "notify": true
-  },
-  {
-    "fork": "Marukon/2fa",
-    "upstream": "wuzf/2fa",
-    "branch": "main",
-    "notify": true
-  },
-  {
-    "fork": "Marukon/couple-flying-chess",
-    "upstream": "woniu9524/couple-flying-chess",
-    "branch": "master",
-    "notify": true
-  },
-  {
-    "fork": "Marukon/it-toolbox",
+    "fork": "yierxiaokeai/it-toolbox",
     "upstream": "Zoroaaa/it-toolbox",
     "branch": "main",
     "notify": true
   },
   {
-    "fork": "Marukon/gongwen",
-    "upstream": "hehecat/gongwen",
-    "branch": "main",
-    "notify": true
-  },
-  {
-    "fork": "Marukon/rustdesk",
+    "fork": "yierxiaokeai/rustdesk",
     "upstream": "rustdesk/rustdesk",
     "branch": "master",
-    "notify": true
-  },
-  {
-    "fork": "Marukon/office-website",
-    "upstream": "baotlake/office-website",
-    "branch": "main",
-    "notify": true
-  },
-  {
-    "fork": "Marukon/SBTI",
-    "upstream": "pingfanfan/SBTI",
-    "branch": "main",
     "notify": true
   }
 ]
