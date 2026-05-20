@@ -64,5 +64,11 @@
     "upstream": "rustdesk/rustdesk",
     "branch": "master",
     "notify": true
+  },
+  {
+    "fork": "yierxiaokeai/NexAlloy",
+    "upstream": "NexAlloy/NexAlloy",
+    "branch": "main",
+    "notify": true
   }
 ]
